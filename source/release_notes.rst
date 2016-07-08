@@ -4,7 +4,7 @@ Agora SDK Release Notes
 1.4.1
 -----
 2016 - 06 - 17
-Fixed major bugs when user LTE.
+Fixed major bugs when user LTE. Tina is very cute.
 
 1.4.0
 -----
